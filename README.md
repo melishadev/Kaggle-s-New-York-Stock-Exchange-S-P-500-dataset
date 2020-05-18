@@ -12,19 +12,19 @@ https://www.kaggle.com/dgawlik/nyse
 - create visualizations of a business metric and use Excel or Google Sheets to create a financial forecast model.
 
 ## The following information is included in the Project data NYSE file:
-Ticker symbol: Stock symbol
-Years: Number of years for which data is provided
-Period ending
-Total revenue
-Cost of goods sold
-Sales, General and Administrative expenses
-Research and Development expenses
-Other Operating expense items
-Global Industry Classification Standard (GICS) Sector: Industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL is categorized under Industrials.)
-GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of Airlines industry.)
+- Ticker symbol: Stock symbol
+- Years: Number of years for which data is provided
+- Period ending
+- Total revenue
+- Cost of goods sold
+- Sales, General and Administrative expenses
+- Research and Development expenses
+- Other Operating expense items
+- Global Industry Classification Standard (GICS) Sector: Industry sector the company is categorized under (e.g., American Airlines with the ticker symbol AAL is categorized under Industrials.)
+- GICS Sub Industry: Sub-industry sector the company is categorized under (e.g., AAL is further categorized under the sub-category of Airlines industry.)
 
 ## Datasets
-fundamentals.csv
-prices-split-adjusted.csv
-prices.csv
-securities.csv
+- fundamentals.csv
+- prices-split-adjusted.csv
+- prices.csv
+- securities.csv
