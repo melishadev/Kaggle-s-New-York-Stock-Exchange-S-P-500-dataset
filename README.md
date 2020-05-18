@@ -2,7 +2,7 @@
 
 ## Summary
 
-In this project, we analyze real life data from the New York Stock Exchange. This is a Udacity prohect where they created a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. Udacity have created a smaller subset of the data and that will be using for the project, which is downloaded from kaggle.
+In this project, we analyze real life data from the New York Stock Exchange. This is a Udacity project where they created a subset of a large dataset provided by Kaggle that contains historical financial data from S&P 500 companies. Udacity have created a smaller subset of the data and that will be using for the project, which is downloaded from kaggle.
 https://www.kaggle.com/dgawlik/nyse
 
 ## The solution Excel file has the main data used for the project is on the first sheet and rest of the sheets are solution.
